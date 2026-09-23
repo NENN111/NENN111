@@ -1,25 +1,20 @@
 <h1 align="center">Roman Platonov</h1>
+<h2 align="center">
+  <b>Data Analyst</b> · Product Analytics · BI
+</h2>
 
-<p align="center">
-  <b>Data Analyst</b> • <b>Product Analytics</b> • <b>BI</b>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+BI;Turning+data+into+insights+and+business+decisions;A%2FB+testing+%7C+Dashboards+%7C+ETL+%7C+Analytics" alt="Typing SVG" />
-</p>
 
----
-
-### About me
+## About me
 
 Студент **РТУ МИРЭА** по направлению **«Прикладная информатика — Управление данными»**.  
-Развиваюсь в **Data Analytics / Product Analytics / BI**.  
-Работаю с данными end-to-end: **SQL, Python, ETL, статистический анализ, A/B-тестирование, дашборды и визуализация**.
+Развиваюсь в **Data Analytics / Product Analytics / BI**.
 
----
+Работаю с данными end-to-end: от сбора и очистки до **статистического анализа, A/B-тестирования, построения аналитических витрин и BI-отчётности**.
+
+
 
 ## Tech Stack
-
 ### Analytics & Data
 
 <p>
@@ -73,7 +68,6 @@
   <img src="https://img.shields.io/badge/Airflow-161B22?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
----
 
 ### Focus Areas
 
