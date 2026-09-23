@@ -1,49 +1,79 @@
-# Roman Platonov
+<h1 align="center">Roman Platonov</h1>
 
-### Data Analyst | Product Analytics | BI
+<p align="center">
+  <b>Data Analyst</b> • <b>Product Analytics</b> • <b>BI</b>
+</p>
 
-Студент РТУ МИРЭА по направлению «Прикладная информатика — Управление данными».
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+BI;Turning+data+into+insights+and+business+decisions;A%2FB+testing+%7C+Dashboards+%7C+ETL+%7C+Analytics" alt="Typing SVG" />
+</p>
 
-Работаю с данными end-to-end: от получения и очистки до статистического анализа,
-A/B-тестирования, построения витрин и BI-отчётности.
+---
+
+### About me
+
+Студент **РТУ МИРЭА** по направлению **«Прикладная информатика — Управление данными»**.  
+Развиваюсь в **Data Analytics / Product Analytics / BI**.  
+Работаю с данными end-to-end: **SQL, Python, ETL, статистический анализ, A/B-тестирование, дашборды и визуализация**.
+
+---
 
 ### Tech Stack
 
-Python • SQL • PostgreSQL • Pandas • NumPy • Power BI • Excel  
-SciPy • Statsmodels • scikit-learn • ETL • REST API • Docker • Git
+#### Analytics & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,docker" />
+</p>
 
-## Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0D1117?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### 🧪 Retail Experimentation & Uplift Analytics
-A/B-тестирование маркетинговой кампании на данных X5 RetailHero:
-SRM, A/A, power analysis, MDE, bootstrap, uplift modeling,
-Qini/AUUC и оценка бизнес-эффекта.
+#### BI & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=3F4F75" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627" />
+</p>
 
-**Python · PostgreSQL · Power BI · scikit-learn · Docker**
-
-[View project →](https://github.com/NENN111/A-B-X5)
+#### Currently learning
+<p>
+  <img src="https://img.shields.io/badge/A%2FB_Testing-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Analytics-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Engineering-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL-161B22?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚗 Automotive Sales Analytics
-End-to-end анализ 597 374 транзакций автомобильных продаж:
-Data Quality, EDA, статистические тесты, ML, кластеризация
-и прогнозирование выручки.
+### Focus Areas
 
-**Python · R · Pandas · SciPy · Statsmodels · scikit-learn**
-
-[View project →](https://github.com/NENN111/automotive-sales-analytics)
+- Data Analysis  
+- Product Analytics  
+- A/B Testing  
+- BI Dashboards  
+- ETL & Data Pipelines  
+- Exploratory Data Analysis  
+- Statistical Analysis  
+- Business Insights  
 
 ---
 
-### 📊 Data Analyst Vacancies Dashboard
-Система сбора и анализа вакансий аналитиков:
-REST API → ETL → PostgreSQL → интерактивный dashboard.
+### Contacts
 
-**Python · SQL · PostgreSQL · Streamlit · Plotly · REST API**
-
-[View project →](https://github.com/NENN111/Data-Analyst-Dashboard)
-
-## Currently learning
-
-Product Analytics • A/B Testing • DAX • Data Engineering
+<p>
+  <a href="https://t.me/romanplat">
+    <img src="https://img.shields.io/badge/Telegram-@romanplat-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Moscow-Russia-0D1117?style=for-the-badge" />
+</p>
