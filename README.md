@@ -67,13 +67,3 @@
 - Statistical Analysis  
 - Business Insights  
 
----
-
-### Contacts
-
-<p>
-  <a href="https://t.me/romanplat">
-    <img src="https://img.shields.io/badge/Telegram-@romanplat-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Moscow-Russia-0D1117?style=for-the-badge" />
-</p>
